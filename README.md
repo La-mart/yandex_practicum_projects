@@ -1,4 +1,4 @@
-# Yandex.Praktikum Data Analytics projects
+# Yandex.Praсtiсum Data Analytics projects
 Репозиторий учебных проектов в рамках курса по анализу данных 
 
 Лучшие проекты: [Анализ товарного ассортимента интернет-магазина](final_project/ecommerce), [Рынок общественного питания Москвы](visualization), [Разработка стратегии взаимодействия с клиентами сети фитнес-центров](machine_learning) 
