@@ -1,7 +1,6 @@
 # Создание дашборда по пользовательским событиям Яндекс.Дзен
 
-Дашборд: <https://public.tableau.com/app/profile/daria6509/viz/ZenDashforPraktikum/Dashboard1>
-
+Дашборд: [ссылка](https://public.tableau.com/app/profile/artem.lamzin/viz/ZenDashboard_16865879195840/ZenDashboard)
 **Статус:** завершен. 
 
 **BI-система:** Tableau Public.
