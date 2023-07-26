@@ -1,6 +1,6 @@
 # Анализ товарного ассортимента интернет-магазина товаров для дома и быта «Пока все ещё тут»
 
-Презентация: [открыть](presentation_ecom)
+Презентация: [открыть](presentation_ecom.pdf)
 
 Дашборд: [открыть](https://public.tableau.com/app/profile/artem.lamzin/viz/Dailyrevenueandordersdashboard/Dashboard1)
 
