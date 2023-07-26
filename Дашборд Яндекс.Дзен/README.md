@@ -2,6 +2,7 @@
 
 Дашборд: [ссылка](https://public.tableau.com/app/profile/artem.lamzin/viz/ZenDashboard_16865879195840/ZenDashboard)
 
+
 **Статус:** завершен. 
 
 **BI-система:** Tableau Public.
